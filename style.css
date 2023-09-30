@@ -36,3 +36,10 @@ a {
   background-color: white;
   box-shadow: 10px 10px lightblue;
 }
+
+footer {
+    padding: 5px;
+    margin-top: 5px;
+    color: #0d1e3a;
+    background-color: lightblue;
+} 
